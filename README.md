@@ -1,2 +1,2 @@
-# Calculator for my purposes
+# Calculator for our purposes
 Make a calculator is easy
